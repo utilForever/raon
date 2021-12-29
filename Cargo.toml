@@ -1,0 +1,13 @@
+[package]
+name = "raon"
+version = "0.0.1"
+authors = [ "Chris Ohk <utilforever@gmail.com>", "Hwanhee Kim <kimhappy@hanyang.ac.kr>" ]
+edition = "2018"
+description = "A simple RPG maker editor and engine written in Rust"
+
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
